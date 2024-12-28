@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently learning Easyx and trying to implement the game of Tetris.
+I’m currently learning …….
 <!--
 **Qstarfish/Qstarfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
